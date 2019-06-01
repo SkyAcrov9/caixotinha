@@ -1,0 +1,25 @@
+header{
+    padding: 20px;
+}
+.menu-nav{
+    height: 34px;
+    margin-bottom: 10.16%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-nav ul li{
+    display: inline-block;
+}
+
+input{
+    border: none;
+    border-radius: 20px;
+    padding: 9px;
+    width: 450px;
+}
+
+.logo-input{
+    display: flex;
+    justify-content: space-between;
+}
